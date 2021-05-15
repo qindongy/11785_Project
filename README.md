@@ -1,2 +1,4 @@
 # 11785_Project: Semi-supervised BERT Hate Speech Detection
 Course Project for 11785, you can find the script we used for training, prediction and all the dataset we used here.
+
+Hate speech has existed in this world since the beginning of times and has motivatedactions and reactions. Among other pros and cons, the rise of Social Media hasseen an increase in hate speech and hate induced incidents. A major challenge todeal with such hate speech is how to effectively label and detect them. Our Projectrevolves around using a semi-supervised framework to transfer existing per-trainedmodel to label and detect hate speech in different domains.  We test our modelon different field (journalism) and different languages (Hindi, French, Arabic) tocheck its effectiveness against the traditional zero-shot predictions.
